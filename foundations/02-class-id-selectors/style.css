@@ -1,31 +1,22 @@
 .class-1 {
-    background-color: #FF8BA0;
-    font-family: verdana, DejaVu Sans, sans-serif;
+ background-color: #ff8ba0;
+ font-family: vedana, "DejaVu Sans", sans-serif;
+
 }
 
 #id-2 {
-    color: #0000f0;
+    color: blue;
     font-size: 36px;
-
 
 }
 
-
 .cooler {
-    background-color:#FF8BA0;
-    font-family: verdana, DejaVu Sans, sans-serif;
-    font-size: 34px;
-
+    font-size: 24px;
 
 }
 
 #id-4 {
-    background-color: #90ee90;
-    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
     
-}
-
-.class-5 {
-    background-color: #FF8BA0;
-    font-family: verdana, DejaVu Sans, sans-serif;
 }
